@@ -1,5 +1,4 @@
 reciever_list = [2 , 1 , 5 , 3 , 4]
-# [2 , 1 , 4 , 5 , 3] 
 dict1 = {
     (reciever_list.index(reciever_list[0])+1):reciever_list[0],
     (reciever_list.index(reciever_list[1])+1):reciever_list[1],
